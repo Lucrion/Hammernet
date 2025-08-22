@@ -28,4 +28,4 @@ mkdir -p data  # Directorio para almacenamiento de datos JSON (fallback)
 echo "Configurando base de datos PostgreSQL para producción..."
 python setup_postgres.py
 
-echo "=== Construcción completada con éxito ===
+echo "=== Construcción completada con éxito ==="
